@@ -12,9 +12,9 @@ You choose the initial setting for the grid between complete white, complete bla
 For example, on a uniform white grid:
 The ant creates an almost symmetric pattern up to approximately 420 steps:
 (step = 200)
-![](200.png)
+![](reports/200.png)
 
 
 Then is has a chaotic growth from 400 - 10000 steps and after that, it builts a highly structured, repetitive pattern (Highway) with every cycle = 104 steps.
 (step = 12000)
-![](12000.png)
+![](reports/12000.png)
